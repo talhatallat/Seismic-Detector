@@ -1,1 +1,1 @@
-# Seismic-Detector-
+# Seismic-Detector
